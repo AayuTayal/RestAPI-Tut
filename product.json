@@ -1,0 +1,44 @@
+[
+    {
+        "name": "iphone",
+        "price": "50000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "iphone16",
+        "price": "60000",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": "20000",
+        "company": "samsung"
+    },
+    {
+        "name": "redmi10",
+        "price": "22000",
+        "company": "mi"
+    },
+    {
+        "name": "realme Narzo 20 Pro",
+        "price": "25000",
+        "company": "realme"
+    },
+    {
+        "name": "Galaxy8",
+        "price": "18000",
+        "company": "samsung"
+    },
+    {
+        "name": "iphone16",
+        "price": "85000",
+        "company": "apple"
+    },
+    {
+        "name": "poco X5 pro",
+        "price": "30000",
+        "company": "poco"
+    }
+]
